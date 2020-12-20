@@ -1,3 +1,5 @@
+Test
+
 ```javascript
 import server from 'server-init'
 
