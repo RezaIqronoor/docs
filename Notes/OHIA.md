@@ -12,7 +12,7 @@ OHIA is a food-related? app that focus on helping the street vendor in all of In
 6. Hasil jualan yang di tahan minimal 3 hari, mereka butuh hasil hari itu juga agar dapat membeli bahan untuk hari esok.
 7. Sibuk untuk mengurus aplikasi karena sudah sibuk on-site.
 
-#### Solusi
+#### Solusi Temp
 
 1. Membuat sistem pendaftaran dan desain aplikasi yang simple, mudah di pahami oleh kalangan orang-orang yang awam dalam teknologi.
 2. ??
